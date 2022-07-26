@@ -5,12 +5,12 @@ repository: https://github.com/gabuldev/camera_camera
 homepage: https://gabul.dev/
 
 environment:
-  sdk: ">=2.12.0-0.0 <3.0.0"
+  sdk: ">=2.17.6 <3.0.0"
 
 dependencies:
   camera: ^0.10.0 
   font_awesome_flutter: ^10.1.0
-  rxdart: ^0.26.0
+  rxdart: ^0.27.5
   flutter:
     sdk: flutter
 
